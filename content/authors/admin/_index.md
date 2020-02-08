@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Avinash Paliwal
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Computational Photography
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Texas A&M University
+  url: "https://engineering.tamu.edu/cse/index.html"
+- name: Aggie Graphics Group
+  url: "https://graphics.cs.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computational Photography, Computer Vision and Deep Learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Photography
+- Computer Vision
+- Deep Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Engineering
+    institution: Texas A&M University
+  - course: BTech in Electronics and Communication Engineering
+    institution: Visvesvaraya National Institute Of Technology
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:avinashpaliwal@tamu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=2sqrJL8AAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/avinashpaliwal
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +65,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a PhD Student in the Computer Science and Engineering Department at Texas A&M University, advised by [Dr. Nima Kalantari](http://faculty.cs.tamu.edu/nimak). My primary research interests in Computational Photography, Computer Vision and Deep Learning. My current research is focused on video enhancement techniques like frame interpolation and denoising.

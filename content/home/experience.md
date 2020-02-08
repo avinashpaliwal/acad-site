@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "Texas A&M University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "College Station, TX"
+  date_start = "2019-08-15"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+    """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Development Engineer Intern"
+  company = "Bajaj Auto Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Seattle, WA"
+  date_start = "2019-05-18"
+  date_end = "2019-08-08"
+  description = """"""
+
+[[experience]]
+  title = "Senior R&D Engineer"
+  company = "Bajaj Auto Ltd"
+  company_url = ""
+  location = "Pune, India"
+  date_start = "2016-07-01"
+  date_end = "2018-07-01"
+  description = """Worked in the Embedded Software Group, R&D.  
+Responsibilities:
+- Development of the first in-house embedded Operating System: BALOS.
+- Perl and VBA Scripting for code auto-generation and OS support tools
+- Creating a Testing and Root Cause Analysis environment for embedded OS."""
+
+[[experience]]
+  title = "Intern"
+  company = "Bharat Electronics Ltd"
+  company_url = "http://bel-india.in/"
+  location = "Bangalore, India"
+  date_start = "2015-05-01"
+  date_end = "2015-06-30"
+  description = """Built a remotely programmable power supply with PID control. Developed a robust support library for reuse in applications."""
 
 +++
