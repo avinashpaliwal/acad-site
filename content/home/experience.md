@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Texas A&M University"
-  company_url = ""
+  company_url = "https://www.tamu.edu/"
   location = "College Station, TX"
   date_start = "2019-08-15"
   date_end = ""
@@ -29,8 +29,8 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Development Engineer Intern"
-  company = "Bajaj Auto Ltd"
-  company_url = ""
+  company = "Amazon"
+  company_url = "https://www.amazon.com/"
   location = "Seattle, WA"
   date_start = "2019-05-18"
   date_end = "2019-08-08"
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior R&D Engineer"
   company = "Bajaj Auto Ltd"
-  company_url = ""
+  company_url = "https://www.bajajauto.com/"
   location = "Pune, India"
   date_start = "2016-07-01"
   date_end = "2018-07-01"
@@ -56,6 +56,6 @@ Responsibilities:
   location = "Bangalore, India"
   date_start = "2015-05-01"
   date_end = "2015-06-30"
-  description = """Built a remotely programmable power supply with PID control. Developed a robust support library for reuse in applications."""
+  description = """Built a remotely programmable power supply with PID control as part of a project. Developed a robust support library for reuse in applications."""
 
 +++

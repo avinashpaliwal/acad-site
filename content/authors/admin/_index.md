@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/avinashpaliwal
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/avinashpaliwal/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD Student in the Computer Science and Engineering Department at Texas A&M University, advised by [Dr. Nima Kalantari](http://faculty.cs.tamu.edu/nimak). My primary research interests in Computational Photography, Computer Vision and Deep Learning. My current research is focused on video enhancement techniques like frame interpolation and denoising.
+I am a PhD Student in the Computer Science and Engineering Department at Texas A&M University, advised by [Dr. Nima Kalantari](http://faculty.cs.tamu.edu/nimak). My primary research interests are in Computational Photography, Computer Vision and Deep Learning. My current research work is focused on video enhancement techniques like frame interpolation and denoising.
